@@ -1,0 +1,3 @@
+Upload & install the plugin zip
+Go to tools > import > WordPress > run import
+go to uploads extract 2024 zip for upload image
