@@ -1,3 +1,3 @@
 Upload & install the plugin zip
-Go to tools > import > WordPress > run import > choose file & run
+Go to tools > import > WordPress > run import > choose librarybooksearch.xml file & run
 go to uploads folder extract 2024 zip for upload image
